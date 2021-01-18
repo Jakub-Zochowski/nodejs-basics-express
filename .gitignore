@@ -1,7 +1,1 @@
-#PACKAGES#
-##########
-*node_modules/
-
-#EDITOR#
-########
-*.vscode/
+node_modules
